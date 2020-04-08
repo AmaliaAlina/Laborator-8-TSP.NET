@@ -1,0 +1,17 @@
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.exe
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfoInputs.cache
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfo.cs
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CopyComplete
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.deps.json
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.json
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.dev.json
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+C:\Users\Amalia\Desktop\git Organize\laboratoare organizate TSP.NET git\Laborator-8-TSP.NET\GrpcGreeter\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb

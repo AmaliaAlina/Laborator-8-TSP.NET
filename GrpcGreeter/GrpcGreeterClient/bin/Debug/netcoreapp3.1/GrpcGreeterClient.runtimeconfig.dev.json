@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Amalia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Amalia\\.nuget\\packages"
+    ]
+  }
+}
